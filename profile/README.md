@@ -1,5 +1,5 @@
 # About
-ZRXPATH is a community-based initiative that aims to make the 0x Protocol more performant, innovative, and sustainable via the implementation of enabling structures and actionable pathways. 
+ZRX Pathways is a community-based initiative that aims to make the 0x Protocol more performant, innovative, and sustainable via the implementation of enabling structures and actionable pathways. 
 
 ![ZRX Path mission](https://github.com/ZRX-Pathways/.github/blob/main/assets/zrx-path-mission.png?raw=true)
 
